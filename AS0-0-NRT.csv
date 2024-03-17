@@ -1,0 +1,203 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+20.243.201.2,2053,443,true,NRT,Asia Pacific,Tokyo,179,6.07
+47.245.59.244,2086,2086,false,HKG,Asia Pacific,Hong Kong,364,5.79
+193.32.151.17,38489,443,true,NRT,Asia Pacific,Tokyo,105,5.26
+43.153.181.217,80,80,false,HKG,Asia Pacific,Hong Kong,168,5.01
+154.197.92.113,5010,443,true,HKG,Asia Pacific,Hong Kong,118,5.00
+47.236.125.62,2086,2086,false,HKG,Asia Pacific,Hong Kong,324,4.93
+193.32.149.196,17809,0,false,HKG,Asia Pacific,Hong Kong,169,4.76
+62.106.70.112,30963,443,true,NRT,Asia Pacific,Tokyo,203,4.46
+154.12.191.87,10809,80,false,HKG,Asia Pacific,Hong Kong,202,4.15
+154.197.92.74,5010,443,true,HKG,Asia Pacific,Hong Kong,135,3.77
+103.20.199.180,59397,443,true,NRT,Asia Pacific,Tokyo,103,3.63
+154.197.92.101,5010,443,true,SIN,Asia Pacific,Singapore,167,3.53
+47.245.11.216,2052,2052,false,HKG,Asia Pacific,Hong Kong,364,3.36
+193.123.233.143,2083,80,false,HKG,Asia Pacific,Hong Kong,163,3.23
+154.40.62.185,34237,2096,true,NRT,Asia Pacific,Tokyo,177,3.19
+47.245.59.243,8880,8880,false,NRT,Asia Pacific,Tokyo,165,3.19
+47.91.31.231,2095,2095,false,SIN,Asia Pacific,Singapore,280,2.71
+103.201.130.240,22138,443,true,NRT,Asia Pacific,Tokyo,116,2.50
+195.245.241.30,12345,443,true,NRT,Asia Pacific,Tokyo,118,2.37
+195.245.242.51,34237,2096,true,NRT,Asia Pacific,Tokyo,174,2.33
+103.117.102.7,46665,443,true,HKG,Asia Pacific,Hong Kong,200,2.22
+103.117.102.7,46656,443,true,HKG,Asia Pacific,Hong Kong,114,2.20
+45.143.235.42,8443,443,true,NRT,Asia Pacific,Tokyo,132,2.09
+154.197.92.106,5010,443,true,HKG,Asia Pacific,Hong Kong,193,1.90
+154.197.92.68,5010,443,true,HKG,Asia Pacific,Hong Kong,106,1.85
+151.145.65.8,2096,2096,true,NRT,Asia Pacific,Tokyo,148,1.78
+147.78.244.76,34237,2096,true,NRT,Asia Pacific,Tokyo,208,1.76
+103.117.102.7,55566,443,true,HKG,Asia Pacific,Hong Kong,179,1.61
+45.143.234.181,56649,443,true,NRT,Asia Pacific,Tokyo,169,1.56
+158.179.178.145,2087,2087,true,NRT,Asia Pacific,Tokyo,168,1.51
+154.197.92.100,5010,443,true,HKG,Asia Pacific,Hong Kong,116,1.48
+168.138.206.109,8080,8080,false,NRT,Asia Pacific,Tokyo,137,1.43
+168.138.202.169,2086,2086,false,NRT,Asia Pacific,Tokyo,169,1.40
+154.197.92.120,5010,443,true,HKG,Asia Pacific,Hong Kong,169,1.35
+154.197.92.124,5010,443,true,HKG,Asia Pacific,Hong Kong,170,1.32
+141.147.182.70,2082,2082,false,NRT,Asia Pacific,Tokyo,199,1.29
+132.145.122.95,2095,2095,false,NRT,Asia Pacific,Tokyo,169,1.26
+131.186.58.151,2083,2083,true,NRT,Asia Pacific,Tokyo,130,1.25
+158.179.180.233,2082,2082,false,NRT,Asia Pacific,Tokyo,173,1.23
+168.138.215.188,8080,8080,false,NRT,Asia Pacific,Tokyo,143,1.20
+158.101.137.96,2082,2082,false,NRT,Asia Pacific,Tokyo,106,1.20
+154.12.191.87,41809,80,false,HKG,Asia Pacific,Hong Kong,170,1.18
+154.197.92.108,5010,443,true,HKG,Asia Pacific,Hong Kong,105,1.18
+154.197.92.69,5010,443,true,HKG,Asia Pacific,Hong Kong,163,1.16
+150.230.212.9,8080,8080,false,NRT,Asia Pacific,Tokyo,133,1.15
+158.179.189.235,2082,2082,false,NRT,Asia Pacific,Tokyo,139,1.14
+131.186.35.189,2086,2086,false,NRT,Asia Pacific,Tokyo,177,1.09
+150.230.222.185,80,80,false,NRT,Asia Pacific,Tokyo,173,1.08
+141.147.164.123,8880,8880,false,NRT,Asia Pacific,Tokyo,139,1.06
+158.179.178.142,2087,2087,true,NRT,Asia Pacific,Tokyo,173,1.02
+132.145.122.95,2096,2096,true,NRT,Asia Pacific,Tokyo,174,0.99
+141.147.182.70,2083,2083,true,NRT,Asia Pacific,Tokyo,122,0.95
+140.238.61.224,2095,2095,false,NRT,Asia Pacific,Tokyo,129,0.94
+154.197.92.118,5010,443,true,HKG,Asia Pacific,Hong Kong,137,0.94
+154.197.92.85,5010,443,true,HKG,Asia Pacific,Hong Kong,121,0.92
+159.138.2.15,5042,80,false,SEA,North America,Seattle,128,0.90
+141.147.160.221,2052,2052,false,NRT,Asia Pacific,Tokyo,121,0.89
+150.230.212.9,8880,8880,false,NRT,Asia Pacific,Tokyo,198,0.89
+131.186.41.82,2052,2052,false,NRT,Asia Pacific,Tokyo,129,0.89
+168.138.212.184,8080,8080,false,NRT,Asia Pacific,Tokyo,121,0.88
+131.186.58.151,2082,2082,false,NRT,Asia Pacific,Tokyo,165,0.88
+168.138.212.184,2082,2082,false,NRT,Asia Pacific,Tokyo,120,0.83
+154.40.63.168,443,443,true,HKG,Asia Pacific,Hong Kong,186,0.82
+158.179.188.175,80,80,false,NRT,Asia Pacific,Tokyo,163,0.79
+132.145.123.159,2095,2095,false,NRT,Asia Pacific,Tokyo,198,0.78
+132.226.231.25,443,443,true,HKG,Asia Pacific,Hong Kong,145,0.77
+150.230.212.9,80,80,false,NRT,Asia Pacific,Tokyo,105,0.77
+193.32.151.29,43900,443,true,NRT,Asia Pacific,Tokyo,104,0.77
+45.143.235.42,2053,443,true,NRT,Asia Pacific,Tokyo,167,0.73
+155.248.179.132,80,80,false,HKG,Asia Pacific,Hong Kong,341,0.71
+138.3.223.70,2052,2052,false,NRT,Asia Pacific,Tokyo,119,0.71
+150.230.212.9,2082,2082,false,NRT,Asia Pacific,Tokyo,170,0.70
+152.70.106.13,2096,2096,true,NRT,Asia Pacific,Tokyo,122,0.69
+140.238.50.99,8880,8880,false,NRT,Asia Pacific,Tokyo,176,0.69
+154.197.92.76,5010,443,true,HKG,Asia Pacific,Hong Kong,192,0.69
+20.243.201.2,8443,443,true,NRT,Asia Pacific,Tokyo,175,0.69
+141.147.169.131,2095,2095,false,NRT,Asia Pacific,Tokyo,118,0.67
+150.230.212.9,8443,8443,true,NRT,Asia Pacific,Tokyo,130,0.67
+131.186.41.82,2082,2082,false,NRT,Asia Pacific,Tokyo,128,0.66
+141.147.179.64,2082,2082,false,NRT,Asia Pacific,Tokyo,120,0.66
+154.197.92.126,5010,443,true,HKG,Asia Pacific,Hong Kong,104,0.65
+176.126.114.224,11001,443,true,NRT,Asia Pacific,Tokyo,180,0.64
+154.197.92.81,5010,443,true,HKG,Asia Pacific,Hong Kong,178,0.61
+154.197.92.115,5010,443,true,HKG,Asia Pacific,Hong Kong,176,0.61
+140.83.37.145,80,80,false,HKG,Asia Pacific,Hong Kong,296,0.60
+158.179.189.235,2052,2052,false,NRT,Asia Pacific,Tokyo,129,0.59
+150.230.212.9,2053,2053,true,NRT,Asia Pacific,Tokyo,128,0.58
+140.238.33.94,2053,2053,true,NRT,Asia Pacific,Tokyo,120,0.58
+140.238.61.224,2082,2082,false,NRT,Asia Pacific,Tokyo,107,0.57
+132.145.123.14,2052,2052,false,NRT,Asia Pacific,Tokyo,106,0.57
+131.186.35.189,2052,2052,false,NRT,Asia Pacific,Tokyo,168,0.56
+158.179.188.175,2086,2086,false,NRT,Asia Pacific,Tokyo,197,0.55
+131.186.62.26,2095,2095,false,HKG,Asia Pacific,Hong Kong,277,0.54
+158.101.144.189,2082,2082,false,NRT,Asia Pacific,Tokyo,196,0.53
+131.186.35.189,2053,2053,true,NRT,Asia Pacific,Tokyo,165,0.53
+168.138.202.169,2082,2082,false,NRT,Asia Pacific,Tokyo,172,0.53
+158.101.144.189,8880,8880,false,NRT,Asia Pacific,Tokyo,175,0.53
+150.230.213.95,2083,2083,true,HKG,Asia Pacific,Hong Kong,226,0.52
+103.117.102.7,38889,443,true,HKG,Asia Pacific,Hong Kong,219,0.52
+131.186.37.69,2087,2087,true,NRT,Asia Pacific,Tokyo,120,0.52
+147.78.245.145,34237,2096,true,NRT,Asia Pacific,Tokyo,204,0.51
+154.197.92.83,5010,443,true,HKG,Asia Pacific,Hong Kong,127,0.51
+132.145.127.21,2086,2086,false,NRT,Asia Pacific,Tokyo,175,0.50
+168.138.209.244,2095,2095,false,NRT,Asia Pacific,Tokyo,195,0.48
+138.3.223.70,2086,2086,false,NRT,Asia Pacific,Tokyo,165,0.48
+132.145.123.159,2096,2096,true,NRT,Asia Pacific,Tokyo,176,0.45
+132.145.114.250,8880,8880,false,NRT,Asia Pacific,Tokyo,166,0.45
+138.2.25.122,2096,2096,true,NRT,Asia Pacific,Tokyo,106,0.45
+150.230.204.117,8880,8880,false,NRT,Asia Pacific,Tokyo,106,0.45
+140.238.50.99,2095,2095,false,NRT,Asia Pacific,Tokyo,194,0.44
+131.186.37.69,2082,2082,false,NRT,Asia Pacific,Tokyo,177,0.43
+151.145.75.28,2095,2095,false,NRT,Asia Pacific,Tokyo,164,0.42
+158.179.178.145,8443,8443,true,NRT,Asia Pacific,Tokyo,176,0.42
+131.186.35.189,2095,2095,false,NRT,Asia Pacific,Tokyo,133,0.40
+140.238.61.224,8080,8080,false,NRT,Asia Pacific,Tokyo,171,0.40
+132.145.91.171,8443,443,true,ICN,Asia Pacific,Seoul,105,0.40
+131.186.35.189,8080,8080,false,NRT,Asia Pacific,Tokyo,194,0.40
+168.138.209.244,2086,2086,false,NRT,Asia Pacific,Tokyo,190,0.39
+168.138.194.121,2086,2086,false,HKG,Asia Pacific,Hong Kong,234,0.39
+131.186.37.191,2086,2086,false,HKG,Asia Pacific,Hong Kong,297,0.39
+193.123.235.59,443,443,true,HKG,Asia Pacific,Hong Kong,104,0.39
+131.186.41.82,8080,8080,false,NRT,Asia Pacific,Tokyo,201,0.39
+151.145.75.28,2082,2082,false,NRT,Asia Pacific,Tokyo,176,0.38
+131.186.41.82,2086,2086,false,NRT,Asia Pacific,Tokyo,169,0.38
+141.147.182.70,2086,2086,false,NRT,Asia Pacific,Tokyo,163,0.37
+158.179.189.235,8443,8443,true,NRT,Asia Pacific,Tokyo,122,0.37
+131.186.35.189,8880,8880,false,NRT,Asia Pacific,Tokyo,106,0.36
+158.101.131.218,8443,8443,true,HKG,Asia Pacific,Hong Kong,207,0.36
+154.197.92.70,5010,443,true,HKG,Asia Pacific,Hong Kong,106,0.36
+154.197.92.86,5010,443,true,HKG,Asia Pacific,Hong Kong,178,0.35
+140.83.37.145,8443,8443,true,HKG,Asia Pacific,Hong Kong,304,0.35
+131.186.35.189,2096,2096,true,NRT,Asia Pacific,Tokyo,148,0.34
+155.248.176.98,2082,2082,false,HKG,Asia Pacific,Hong Kong,227,0.34
+141.147.179.64,2052,2052,false,NRT,Asia Pacific,Tokyo,106,0.34
+155.248.182.244,8880,8880,false,HKG,Asia Pacific,Hong Kong,214,0.33
+168.138.212.184,2053,2053,true,NRT,Asia Pacific,Tokyo,170,0.33
+131.186.41.82,2095,2095,false,NRT,Asia Pacific,Tokyo,125,0.33
+154.197.92.75,5010,443,true,HKG,Asia Pacific,Hong Kong,130,0.33
+158.179.183.2,8080,8080,false,HKG,Asia Pacific,Hong Kong,268,0.32
+132.145.125.165,2096,2096,true,NRT,Asia Pacific,Tokyo,192,0.31
+150.230.202.232,2052,2052,false,NRT,Asia Pacific,Tokyo,190,0.31
+132.145.122.95,2082,2082,false,NRT,Asia Pacific,Tokyo,176,0.30
+158.179.178.142,80,80,false,NRT,Asia Pacific,Tokyo,174,0.29
+141.147.168.159,8880,8880,false,HKG,Asia Pacific,Hong Kong,344,0.28
+168.138.215.188,2095,2095,false,NRT,Asia Pacific,Tokyo,175,0.28
+138.3.208.9,80,80,false,HKG,Asia Pacific,Hong Kong,297,0.28
+150.230.208.83,80,80,false,KIX,Asia Pacific,Osaka,174,0.27
+140.238.61.224,2083,2083,true,NRT,Asia Pacific,Tokyo,213,0.27
+168.138.215.188,80,80,false,NRT,Asia Pacific,Tokyo,165,0.27
+154.197.92.105,5010,443,true,HKG,Asia Pacific,Hong Kong,167,0.27
+140.238.59.255,2052,2052,false,KIX,Asia Pacific,Osaka,141,0.26
+131.186.34.11,8443,8443,true,NRT,Asia Pacific,Tokyo,136,0.26
+158.179.186.138,8080,8080,false,HKG,Asia Pacific,Hong Kong,254,0.26
+158.179.189.106,2082,2082,false,NRT,Asia Pacific,Tokyo,123,0.25
+158.101.144.189,2095,2095,false,NRT,Asia Pacific,Tokyo,106,0.24
+140.238.44.118,2086,2086,false,HKG,Asia Pacific,Hong Kong,209,0.24
+131.186.37.69,2053,2053,true,NRT,Asia Pacific,Tokyo,170,0.23
+131.186.43.107,2082,2082,false,HKG,Asia Pacific,Hong Kong,226,0.23
+141.147.179.64,2095,2095,false,NRT,Asia Pacific,Tokyo,170,0.23
+141.147.182.70,8880,8880,false,NRT,Asia Pacific,Tokyo,191,0.23
+158.179.178.145,2096,2096,true,NRT,Asia Pacific,Tokyo,193,0.22
+168.138.195.31,8880,8880,false,HKG,Asia Pacific,Hong Kong,317,0.22
+47.245.59.244,2096,2096,true,HKG,Asia Pacific,Hong Kong,286,0.22
+155.248.176.98,2095,2095,false,HKG,Asia Pacific,Hong Kong,310,0.22
+154.197.92.93,5010,443,true,HKG,Asia Pacific,Hong Kong,119,0.21
+152.70.98.174,2086,2086,false,HKG,Asia Pacific,Hong Kong,268,0.20
+138.2.19.122,8880,8880,false,HKG,Asia Pacific,Hong Kong,333,0.20
+158.101.92.156,8080,8080,false,SIN,Asia Pacific,Singapore,310,0.18
+132.145.127.21,2095,0,false,NRT,Asia Pacific,Tokyo,129,0.18
+158.101.144.189,8443,8443,true,NRT,Asia Pacific,Tokyo,165,0.18
+155.248.176.98,2096,2096,true,HKG,Asia Pacific,Hong Kong,253,0.17
+132.145.122.95,2053,2053,true,NRT,Asia Pacific,Tokyo,178,0.15
+168.138.196.237,80,80,false,SIN,Asia Pacific,Singapore,319,0.15
+45.66.128.148,51361,443,true,NRT,Asia Pacific,Tokyo,277,0.13
+131.186.45.88,2052,2052,false,KIX,Asia Pacific,Osaka,171,0.12
+131.186.41.82,2087,2087,true,NRT,Asia Pacific,Tokyo,146,0.12
+168.138.209.244,8080,8080,false,NRT,Asia Pacific,Tokyo,176,0.12
+158.101.158.238,2083,2083,true,NRT,Asia Pacific,Tokyo,135,0.12
+158.179.186.251,2095,2095,false,HKG,Asia Pacific,Hong Kong,297,0.11
+140.238.58.42,80,80,false,HKG,Asia Pacific,Hong Kong,304,0.09
+45.66.128.148,48792,443,true,NRT,Asia Pacific,Tokyo,209,0.08
+195.245.242.232,53942,8443,true,HKG,Asia Pacific,Hong Kong,109,0.07
+155.248.180.103,2053,2053,true,HKG,Asia Pacific,Hong Kong,213,0.05
+147.78.247.110,50027,443,true,HKG,Asia Pacific,Hong Kong,179,0.00
+109.107.137.22,44004,443,true,NRT,Asia Pacific,Tokyo,176,0.00
+185.184.223.19,59775,443,true,NRT,Asia Pacific,Tokyo,130,0.00
+62.106.70.89,40184,443,true,NRT,Asia Pacific,Tokyo,292,0.00
+45.66.128.148,50053,443,true,NRT,Asia Pacific,Tokyo,177,0.00
+155.248.180.103,2052,2052,false,HKG,Asia Pacific,Hong Kong,232,0.00
+141.147.169.131,2096,2096,true,NRT,Asia Pacific,Tokyo,178,0.00
+103.170.233.243,5772,443,true,HKG,Asia Pacific,Hong Kong,170,0.00
+141.98.197.103,55271,443,true,NRT,Asia Pacific,Tokyo,279,0.00
+62.106.70.181,10006,443,true,NRT,Asia Pacific,Tokyo,215,0.00
+158.179.178.145,8880,8880,false,NRT,Asia Pacific,Tokyo,165,0.00
+45.66.131.214,25462,443,true,NRT,Asia Pacific,Tokyo,122,0.00
+45.66.128.148,48388,443,true,NRT,Asia Pacific,Tokyo,177,0.00
+138.3.223.70,2083,2083,true,NRT,Asia Pacific,Tokyo,177,0.00
+45.159.51.218,25068,443,true,NRT,Asia Pacific,Tokyo,246,0.00
+45.66.128.148,34030,443,true,NRT,Asia Pacific,Tokyo,201,0.00
+62.106.70.197,24543,443,true,NRT,Asia Pacific,Tokyo,168,0.00
+151.145.65.8,8080,8080,false,NRT,Asia Pacific,Tokyo,176,0.00
+155.248.176.68,2095,2095,false,HKG,Asia Pacific,Hong Kong,316,0.00

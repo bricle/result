@@ -1,0 +1,11 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+54.187.109.16,443,443,true,SEA,North America,Seattle,210,2.36
+35.88.74.18,443,443,true,SEA,North America,Seattle,194,2.06
+52.40.59.31,443,443,true,SEA,North America,Seattle,206,1.11
+35.92.97.197,80,443,true,SEA,North America,Seattle,205,0.92
+52.24.42.114,2087,443,true,SEA,North America,Seattle,181,0.87
+34.209.205.93,80,443,true,SEA,North America,Seattle,216,0.26
+34.218.130.79,443,443,true,SEA,North America,Seattle,185,0.12
+35.84.181.134,80,443,true,SEA,North America,Seattle,225,0.11
+54.71.238.195,443,443,true,SEA,North America,Seattle,181,0.05
+23.94.211.70,32531,443,true,SEA,North America,Seattle,329,0.01

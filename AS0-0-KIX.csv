@@ -1,0 +1,6 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+13.114.123.213,80,443,true,KIX,Asia Pacific,Osaka,58,4.05
+34.97.218.204,8443,443,true,KIX,Asia Pacific,Osaka,100,4.04
+4.190.200.27,443,443,true,KIX,Asia Pacific,Osaka,117,1.90
+168.138.47.238,8443,80,false,KIX,Asia Pacific,Osaka,165,0.94
+150.230.62.27,443,80,false,KIX,Asia Pacific,Osaka,177,0.87
