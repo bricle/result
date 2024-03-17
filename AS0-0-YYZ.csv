@@ -1,0 +1,4 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+20.220.204.217,443,443,true,YYZ,North America,Toronto,268,3.23
+192.18.145.19,2096,443,true,YYZ,North America,Toronto,223,2.49
+107.174.71.95,80,80,false,BUF,North America,Buffalo,243,1.43

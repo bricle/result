@@ -1,0 +1,16 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+185.212.62.26,25122,443,true,LHR,Europe,London,208,2.15
+185.212.63.23,50283,443,true,LHR,Europe,London,208,1.94
+185.212.62.26,25111,443,true,LHR,Europe,London,208,1.50
+34.118.64.153,443,443,true,FRA,Europe,Frankfurt,214,1.13
+15.236.98.115,443,443,true,CDG,Europe,Paris,224,1.08
+34.140.8.109,443,443,true,CDG,Europe,Paris,200,0.72
+141.145.199.188,443,443,true,CDG,Europe,Paris,175,0.61
+52.143.146.139,2053,443,true,CDG,Europe,Paris,233,0.47
+13.37.103.14,443,443,true,CDG,Europe,Paris,208,0.35
+13.37.240.130,8443,443,true,CDG,Europe,Paris,147,0.12
+52.143.146.139,8443,443,true,CDG,Europe,Paris,236,0.00
+34.65.251.12,443,443,true,FRA,Europe,Frankfurt,249,0.00
+34.116.195.145,443,443,true,FRA,Europe,Frankfurt,249,0.00
+34.154.133.197,443,443,true,FRA,Europe,Frankfurt,232,0.00
+34.65.6.181,443,443,true,FRA,Europe,Frankfurt,254,0.00
